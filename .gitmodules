@@ -16,3 +16,6 @@
 ; After cloning a fork, materialise the submodule working trees with:
 ;
 ;   git submodule update --init --recursive
+[submodule "submodules/logos-forum"]
+	path = submodules/logos-forum
+	url = https://github.com/Tranquil-Flow/logos-forum
