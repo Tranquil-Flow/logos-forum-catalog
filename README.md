@@ -9,7 +9,8 @@ and history on Logos Storage. Source and documentation:
 
 1. Install **Logos Basecamp 0.3.1**
    ([releases](https://github.com/logos-co/logos-basecamp/releases/tag/0.3.1)).
-2. Basecamp → **Package Manager** → add repository
+2. Basecamp → **Settings → Package Repositories** (or **Manage Repositories**
+   in Package Manager) → paste into *Add a repository*:
 
    ```
    https://raw.githubusercontent.com/Tranquil-Flow/logos-forum-catalog/refs/heads/main/logos-repo.json
