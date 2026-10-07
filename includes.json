@@ -6,8 +6,8 @@
       "packages": [
         {
           "name": "delivery_module",
-          "version": "0.3.0",
-          "rootHash": "31583b977f7370c8fc7ed70351daef1069f718c0a005e74306921da2b8aee76f"
+          "version": "0.3.2",
+          "rootHash": "824ccb2cd21b54f196dd3d32659df7f67e6df4298b1ab8cab60b48f704e2feac"
         },
         {
           "name": "storage_module",

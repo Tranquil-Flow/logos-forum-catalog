@@ -18,8 +18,11 @@ and history on Logos Storage. Source and documentation:
 
 3. Install **Forum**. Its dependencies come from the official
    [logos-modules-release](https://github.com/logos-co/logos-modules-release)
-   catalog, pinned in `includes.json` to the exact builds Forum is tested
-   against: `delivery_module` 0.3.0 and `storage_module` 3.0.0.
+   catalog. `includes.json` names the builds Forum is tested against:
+   `delivery_module` 0.3.2 and `storage_module` 3.0.0. Basecamp 0.3.1 ships
+   `storage_module` 3.0.0 and installs the newest `delivery_module` whatever
+   a catalog pins, so a newer Delivery release would be installed in its
+   place.
 
 Packages are built for darwin-arm64, linux-amd64, linux-arm64 and
 windows-x86_64.
